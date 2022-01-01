@@ -1,6 +1,6 @@
 # Spotify-Clone with NextJS      
 
-![ReactJS Resume Website Spotify-clone](spotify.webp?raw=true "NextJS Resume Website Template")
+![ReactJS Resume Website Spotify-clone](spotify.jpg?raw=true "NextJS Resume Website Template")
 
 ## <a href="https://spotify-clone-2ppq8o1ri-khaledghaffarii.vercel.app" target="_blank">LIVE DEMO</a>
 
